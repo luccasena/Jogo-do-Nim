@@ -1,1 +1,2 @@
-# Jogo-do-Nim
+# Jogo do NIM
+
